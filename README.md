@@ -2,7 +2,7 @@
 
 ### 🔗알고리즘 스터디 링크
 
-<h4> 링크 : https://www.acmicpc.net/group/workbook/18756 </h4>
+<h4> 링크 : https://www.acmicpc.net/group/18756 </h4>
 
 <br>
 
