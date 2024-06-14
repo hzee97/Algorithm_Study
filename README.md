@@ -6,6 +6,8 @@
 <h4> 방법 : "백준" 매일 1문제 이상 문제 풀고, 인증. </h4>
 <br>
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hzee&theme=warm)
+
 ### ✍️알고리즘 스터디 활동내용공유 (자료일부공유)
 
 ![image](https://github.com/hzee97/Algorithm_Study/assets/136284855/5ec31e1d-18ef-4969-9f5e-fe39a34546da)
